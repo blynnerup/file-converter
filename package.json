@@ -31,7 +31,7 @@
     "nodejs-base64": "^1.0.3"
   },
   "devDependencies": {
-    "electron": "^4.0.8",
+    "electron": "^18.3.7",
     "electron-installer-dmg": "^2.0.0",
     "electron-packager": "^13.1.0",
     "electron-winstaller": "^2.7.0"
